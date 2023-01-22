@@ -15,9 +15,9 @@ namespace ConsoleApplication2.Seminars
         {
             int n = int.Parse(Console.ReadLine());
             while (n > 999) n /= 10;
-            if (n > 100) n %= 10;
+            int g = n > 100 ?  n %= 10 : 0; // 0 equivalent is no enough numbers 
                 
-            Console.WriteLine(n);
+Console.WriteLine(g);
             
         }
 
