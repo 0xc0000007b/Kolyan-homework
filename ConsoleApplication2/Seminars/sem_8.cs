@@ -93,7 +93,7 @@ namespace Seminar_1
                     break;
                 case 1:
                     Console.Clear();
-                    Console.WriteLine($"SillyShaper@root:~$ sudo cowsay sum");
+                    Console.WriteLine($"xc7b@root:~$ sudo cowsay sum");
                     Console.WriteLine();
                     Console.WriteLine($"< your minimal sum is {sum} an min sum row index is {index}!  >");
                     Console.WriteLine(@"  ----------------------------------------------- -");
