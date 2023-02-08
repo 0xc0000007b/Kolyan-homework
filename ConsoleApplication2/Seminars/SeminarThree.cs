@@ -17,7 +17,7 @@ namespace ConsoleApplication2.Seminars
             }
         }
         //Task 19
-        public static void isPalindrome()
+        public static void IsPalindrome()
         {
             int num, res, temp, rem = 0;
 

@@ -42,6 +42,7 @@
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="Seminars\SeminarOne.cs" />
+        <Compile Include="Seminars\SeminarThree.cs" />
         <Compile Include="Seminars\SeminarTwo.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
