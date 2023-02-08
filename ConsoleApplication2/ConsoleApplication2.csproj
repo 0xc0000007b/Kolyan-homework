@@ -44,6 +44,8 @@
         <Compile Include="Seminars\SeminarOne.cs" />
         <Compile Include="Seminars\SeminarThree.cs" />
         <Compile Include="Seminars\SeminarTwo.cs" />
+        <Compile Include="Seminars\seminar_8.cs" />
+        <Compile Include="utils\Menu.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
